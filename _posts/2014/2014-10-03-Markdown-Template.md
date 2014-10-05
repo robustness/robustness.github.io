@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 如何编辑Markdown脚本
+title: MarkDown Template
 categories:
 - Common Tec
 tags:
-- life
+- MarkDown
 ---
 
 
