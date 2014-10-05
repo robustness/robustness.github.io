@@ -82,6 +82,14 @@ $$	x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
 | Phone     |   12 USD |  12  |
 | Pipe      |    1 USD | 234  |
 
+####Lei's table again表格
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
 ### 印象笔记相关
 
 #### 笔记本和标签
