@@ -42,7 +42,7 @@ Then visit http://localhost:4000 in a web browser.
 
 You can make some editions on the files (create new files, change existing files...) on local computer, then you push them to github.
 
-    cd ~/robustness.github.io/_posts/2014
+    cd ~/robustness.github.io/_posts
     git add *
     git commit -m "git commit operation"
     cd ~/robustness.github.io/
