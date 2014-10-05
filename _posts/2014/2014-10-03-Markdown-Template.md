@@ -59,6 +59,8 @@ $$x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
 正如您在阅读的这份文档，它使用简单的符号标识不同的标题，将某些文字标记为**粗体**或者*斜体*，下面列举了几个高级功能，更多语法请按`Ctrl + /`查看帮助。 
 
 #### 代码块
+
+
 ``` python
 @requires_authorization
 def somefunc(param1='', param2=0):
@@ -76,6 +78,7 @@ class SomeClass:
 $$	x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
 
 #### 表格
+
 | Item      |    Value | Qty  |
 | :-------- | --------:| :--: |
 | Computer  | 1600 USD |  5   |
