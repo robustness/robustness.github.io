@@ -1,0 +1,191 @@
+---
+layout: post
+title: WordPress
+categories:
+- Tech
+tags:
+- Software
+---
+
+###MAC Installation:
+
+xcode, skype, bittorrent, evernote, dropbox, Mactex
+java xquartz 
+macports
+
+    sudo xcode-select --install
+    sudo port -v selfupdate
+
+kdesdk4 (might take whole night)
+Dec 30, 2013
+Dropbox; Skype, Evernote, Matlab
+Bittorent, VLC
+Chrome
+
+#### More Configurations
+0. Tuxera NTFS support
+J0M1H-37VYL-YEVNK-VFVM5
+1. Dropbox:
+sudo ln -s ~/Downloads ./Downloads 
+Link the Downloads folder to Dropbox
+2.  MacTex Firefox Boom Mendeley MacDJView Thunder Google Earth
+3. Chrome, MplayerX, uTorrent,The Unarchiver, kindle, pdftk, Office 2011, Mathematica 8.0.0 (Be careful about the correctness of the mathID as input), Xquatz, Wolfram CDF player (?), page monitor (a Chrome plugin), matlab, install Google earth plugin for chrome, google earth
+4. google drive, dropbox
+5. Xcode  -> Preferences->Downloads->Command Line Tools
+6. homebrew
+
+    `brew install tree`
+
+    ```
+    brew install wget
+    brew install astyle
+    brew install unrar
+    brew install imagemagick
+    brew install rename
+    brew install gfortran
+    brew install r
+    ```
+    
+    `brew install graphicsmagick --with-magick-plus-plus`
+    brew install  fltk 
+    brew install octave
+    brew install gnuplot
+    brew install git
+    brew install ghostscript
+
+7. How to get an SSH server running on a Mac
+To SSH into your Mac you just need to do the following.
+
+    Go to System preferences -> Sharing
+    Check the **Remote Login** box
+    That is it!
+
+8. Mail: New messages sound: none; Play sounds for other; mail action; check for new messages manually.
+Jabber: alerts: play a sound, No! and adjust the sound to the minimal.
+
+
+9. Do not install:  ntfs-3g, octave (matlab is better)
+
+10. Update Terminal GNOME Fonts
+
+-    Download Bitstream Vera Mono 1.10
+-    Unzip
+-    double click VeraMono.ttf
+-    click Install Font
+-    open Terminal, click Terminal->Preferences
+-    find Font and click Change
+-    choose Bitstream Vera Sans for Family
+-    Size: 13
+-    relation font choose window(?)
+-    tick to choose Antialias text
+-    reboot terminal
+    
+Terminal->Preferences->Settings->Window->Background-> Color and Effects -> Opacity
+adjust from 90 - > 70
+
+12. /private/etc/bashrc
+
+    `#PS1='\h:\W \u\$ '`
+
+    `PS1='\u@\h:\w\$ ‘`
+
+11. Set HostName Strange
+
+    `scutil --set HostName MacBook`
+
+
+####MAC resources:
+
+1. http://soft.macx.cn/5134.htm
+2. http://www.mechodownload.com/forum/165-applications/?prefixid=appmacintosh
+3. mechodownload.com or macx.cn
+
+
+### Ubuntu Installation:
+a. Change terminal color
+
+b. Install Latex: 
+
+    sudo apt-get install kile texlive texlive-latex-extra texlive-math-extra texlive-pstricks texlive-science latex-beamer texlive-extra-utils latex-mk fig2ps lmodern texlive-fonts-extra okular jabref
+
+
+c. Install Matlab
+    sudo mkdir -p /mnt/Image
+
+    sudo mount -o loop disk1.iso /mnt/Image
+
+    sudo ./install
+
+Here you need to get rid of one warning by ln -s old new
+
+    sudo ln -s ~/Matlab/bin/matlab /usr/bin/matlab
+ 
+    sudo apt-get install ubuntu-restricted-extras
+ 
+    sudo apt-get install chromium-browser
+ 
+
+    tar xvfz p4v.tgz
+    cd p4v-2010.2.317255
+    sudo cp bin/* /usr/bin/ 
+
+    sudo cp -r lib/* /usr/lib/
+ 
+ 
+PDFView Command: 
+
+    okular %.pdf
+
+Changed to
+
+    PDFView Command: okular --unique %.pdf
+ 
+Java:
+
+    sudo add-apt-repository ppa:webupd8team/java
+
+    sudo apt-get update
+
+    sudo apt-get install oracle-java8-installer
+
+####Software to Explore:
+- Qtiplot; Origin;KaleidaGraph: Draw Graph
+- DigiKam: Picture Management
+- GrindEQ Math Utilities: Latex <-> MS Word
+- Zotero
+- TexPoint: PPT Latex Plugin
+- Miro
+- Vuze
+- http://www.flvcd.com/ : Download youtube
+- http://www.vidown.cn/ : Download streaming media
+- LyricsPlugin: similar software for iTunes/Windows Media Player
+- BeyondCompare
+- MindManager
+- Microsoft Hyper-V
+- unlocker for windows
+- Write Monkey
+- MathType 6.8
+- Total Commander
+- usbsafelyremove
+- white smoke : for grammar checking.
+- mendeley
+- macports/homebrew
+- gotomeeting
+- kuaipan
+- Kaleidoscope
+- VLC
+- Emacs
+- Kitabu
+- Vuze
+- Miro
+- BooguNote
+- Toodledo
+- Tabbles
+- rainLendar
+- Adobe Ideas
+- Virtuoso
+- iReadPdf
+- Knowledge Organisation: Midgard
+- Todo.txt
+- https://tools.netsa.cert.org/wiki/pages/viewpage.action?pageId=4980758
+- http://www.slac.stanford.edu/xorg/nmtf/nmtf-tools.html
