@@ -26,9 +26,9 @@ If that's you, here's the guide to HIIT:
 
 
 
-[0]: resources/cca57370e355a9d845e8738164c33823.jpeg
+[0]: /media/pic2014/resources/cca57370e355a9d845e8738164c33823.jpeg
 [1]: http://lifehacker.com/5888041/how-can-i-start-getting-in-shape-in-20-minutes-a-day
 [2]: http://greatist.com/fitness/afterburn-effect-keep-burning-calories-after-workout
-[3]: resources/3f4d9ed3a1b4fcdec9bbbb5aa18b26b4.png
+[3]: /media/pic2014/resources/3f4d9ed3a1b4fcdec9bbbb5aa18b26b4.png
 [4]: http://greatist.com/fitness/complete-guide-interval-training-infographic
-[5]: resources/325472601571f31e1bf00674c368d335.gif
+[5]: /media/pic2014/resources/325472601571f31e1bf00674c368d335.gif

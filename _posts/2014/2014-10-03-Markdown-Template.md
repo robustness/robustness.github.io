@@ -23,6 +23,42 @@ tags:
 ![](/media/pic2014/0218-0.png)
 
 
+{% highlight bash %}
+sudo apt-get install node
+sudo apt-get install nodejs-legacy
+sudo npm install node-gyp
+{% endhighlight %}
+
+{% highlight ruby %}
+   def index
+   puts "hello world"
+   end
+{% endhighlight %}
+
+
+{% highlight ruby %}
+def show
+  @widget = Widget(params[:id])
+  respond_to do |format|
+    format.html # show.html.erb
+    format.json { render json: @widget }
+  end
+end
+{% endhighlight %}
+
+
+
+{% highlight ruby %}
+def show
+  @widget = Widget(params[:id])
+  respond_to do |format|
+    format.html # show.html.erb
+    format.json { render json: @widget }
+  end
+end
+{% endhighlight %}
+
+
 1.  使用`Ctrl+c`替代`ESC`。这是因为在Vi发明的时代ESC其实是在CapsLK的位置的，习惯`Ctrl+c`后会发现更幸福。[Git的维基定义](http://zh.wikipedia.org/wiki/Git)
 1.  安装中文**帮助**文档，提升阅读文档的幸福感。
 1.  学习使用Shift键，比如`H` `J` `K` `L` `M` `I` `A` `O`等提升操作的流畅性。
