@@ -27,7 +27,10 @@ beagrep，0.23秒grep两个G的代码 <http://baohaojun.github.io/blog/2012/01/3
 2. 书立 + Kindle DX
 
 ## Info
-
+1. postach.io and 36kr(next)
+1. Mission Cantina; La Casita Azteca (Mexician Food)
+1. persepolis iran
+1. <bookfi.org>
 1. Hacker News (try flipboard)
 2. Design News
 3. Product Hunt
