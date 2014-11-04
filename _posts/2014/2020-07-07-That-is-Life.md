@@ -10,7 +10,16 @@ tags:
 ##That's Life
 
 1. Life is not so serious, u see, u r serious, but achived less than the player
-1. 找学生要求：不能有part time job, 非穆斯林，不能有挂科，确保其有精力，时间，和基础来finish the work
+1. 必须设立精华时间的保卫战,之所以很多人可以accomplish a lot of things.其中很多人sacriface a lot, but you can enjoy life and just make sure your are working when you are in your best status.
+1. 人的天性之中，还是希望被奴役.被领导是因为领导不是一件容易的事情，例如Paris之行 (hotel booking,景点规划，路线规划 are tedious work). If I simply follow, it is easier.
+1. "The art of learning"的author 在对chess失去兴趣之后，transfered to another career. Anyway, he cannot always making a life by playing chess. He transfered, but most people have to make a living by continuing their profession and, thus, continue their mediocre life.
+1. By focusing on (Latex/Bash/Emacs/Linux Commands), I neglect the most useful things I really want to learn: Academic writing! (This should have a higher priority).
+1. 不喝beer,同时不再使用耳机, which is very bad when I can hear echo and takes a couple of days to recover.
+1. Only if you really enjoy the city (where I joined Optel), you start to consider the cost and benefit, and what the consequence it could bring (未求胜先求败). Otherwise, you simply stuck and it is very difficult to escape.
+1. An apartment in a big city is a good choice. (sunshine, university student, connvinient flight, good hospital)
+1. 做点自己喜欢的事情，并且从中得到乐趣 (Zhi-Li Zhang)
+1. 找学生要求：不能有part time job, 非穆斯林，不能有挂科，确保其有精力，时间，和基础来finish the work (No Master student, 工作的时候不积极，要推荐信的时候非常积极)
+1. Reecommended courses student should take: machine learning, data mining, statistics...
 2. 对于所有的机会，我应该keep an eye on. 使用Chrome page monitor?
 1 金山快盘中只同步了Books and TSSG proposals
 2. 除了影音和软件资源之外，剩下的都同步到了百度云中
@@ -102,11 +111,13 @@ tags:
 69. 不要在车的后座上放东西，因为它会滑落，撞击到座位滑槽上易碎
 70. 所有的密码，包括纸张邮寄过来的密码，也需要放置于mail/Password
 
-1.    雪地不出行，出行只选择大路。不要相信GPS, GPS只会把你带到最近的路上。但是最近的路上可能没有撒盐，容易死掉的
-2.    如果发现有车在后面跟着，就慢慢开。在下坡的时候是最危险的。在平路和上坡的过程中，停下，让它超过我。
-3.     远远跟着小车，这样它会成为试探路况的车，而不是我
-4.    雪地不超过20miles
-5.    买保险必须买 full coverage
+## Drive
+
+1. 雪地不出行，出行只选择大路。不要相信GPS, GPS只会把你带到最近的路上。但是最近的路上可能没有撒盐，容易死掉的
+2. 如果发现有车在后面跟着，就慢慢开。在下坡的时候是最危险的。在平路和上坡的过程中，停下，让它超过我。
+3. 远远跟着小车，这样它会成为试探路况的车，而不是我
+4. 雪地不超过20miles
+5. 买保险必须买 full coverage
 
 
 

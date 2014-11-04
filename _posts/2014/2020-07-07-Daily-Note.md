@@ -1,3 +1,12 @@
+---
+layout: post
+title: Daily Notes
+categories:
+- Note
+tags:
+- Note
+---
+
 ### Daily Note 2014-10-04
 1. Mother Irish VISA transaction number
 18893282: Long stay
