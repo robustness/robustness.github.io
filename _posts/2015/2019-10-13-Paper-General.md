@@ -7,9 +7,12 @@ tags:
 - Paper
 ---
 
+## Commonly Used Words in Related Work
+tracked; examined; found; showed; analyzed; discussed; introduced; observed; investigated; studied; considered; proposed; suggested; applied; presented; applied; presented; developed; conducted;
+
+
 
 ##Using Academic Language
-
 
 ### Verbs:
 
