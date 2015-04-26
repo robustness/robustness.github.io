@@ -27,7 +27,7 @@ tags:
 
 ###文具和书籍
 1. 文具店：comix 的塑料文件袋
-1. 铅笔刀 2+ 
+1. 铅笔刀 2+ (包括削粗铅笔的)
 1. Book To-Buy-List (养身健身饮食方面的书）
 1. Buy books for Children
 1. Pilot V5 (绿色：10支);
