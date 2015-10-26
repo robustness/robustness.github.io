@@ -31,7 +31,7 @@ int main(int argc, char *argv[])
     printf("%d\n",p);
 }
 
-{% endhighlight c %}
+{% endhighlight %}
 
 ## Example 2
 ``` 
