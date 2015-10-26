@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Software
+title: Programming Homework 4
 categories:
 - Tech
 tags:
@@ -34,7 +34,7 @@ int main(int argc, char *argv[])
 {% endhighlight %}
 
 ## Example 2
-``` 
+{% highlight c %}
 #include <cstdlib>
 #include <iostream>
 
@@ -56,11 +56,11 @@ int main(int argc, char *argv[])
     }
     printf("\n"); 
 }
-``` 
+{% endhighlight %}
 
 ## Example 3
 
-``` 
+{% highlight c %}
 
 #include <cstdlib>
 #include <iostream>
@@ -75,10 +75,10 @@ int main(int argc, char *argv[])
     int x=2;   
     PRINT1(FUDGE(5)*x);
 }
-``` 
+{% endhighlight %}
 
 ## Example 4
-``` 
+{% highlight c %}
 //#include <cstdlib>
 //#include <iostream>
 
@@ -99,10 +99,10 @@ int main(int argc, char *argv[])
     swap(&a,&b);
     printf("%d  %d\n",a,b);
 }
-``` 
+{% endhighlight %}
 
 ## Example 5
-``` 
+{% highlight c %}
 #include <cstdlib>
 #include <iostream>
 union  pw {
@@ -118,10 +118,10 @@ int main(int argc, char *argv[])
     a.ch[1]=1;
     printf("%d\n",a.i);
 }
-``` 
+{% endhighlight %}
 
 ## Example 6
-``` 
+{% highlight c %}
 #include <cstdlib>
 #include <iostream>
 
@@ -138,4 +138,4 @@ int main(int argc, char *argv[])
     }
     printf("%d,%d\n",i,j);
 }
-``` 
+{% endhighlight %}
