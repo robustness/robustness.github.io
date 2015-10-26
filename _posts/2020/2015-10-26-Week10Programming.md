@@ -9,7 +9,7 @@ tags:
 
 ## Example 1
 
-``` 
+{% highlight bash %}
 #include <cstdlib>
 #include <iostream>
 
@@ -30,7 +30,8 @@ int main(int argc, char *argv[])
     p=func(k,m);
     printf("%d\n",p);
 }
- ``` 
+
+{% endhighlight bash %}
 
 ## Example 2
 ``` 
