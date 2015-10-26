@@ -29,8 +29,6 @@ int main(int argc, char *argv[])
     printf("%d,",p);
     p=func(k,m);
     printf("%d\n",p);
-    system("PAUSE");
-    return EXIT_SUCCESS;
 }
  ``` 
 
@@ -43,18 +41,19 @@ using namespace std;
 
 int main(int argc, char *argv[])
 {
-     int c; 
-     printf("ÌáÊ¾ÊäÈë2743\n");
-   while((c=getchar())!='\n')
-   {  switch(c-'2')
-      {   case 0:
+    int c; 
+    printf("Please input 2743\n");
+    while((c=getchar())!='\n')
+    {  switch(c-'2')
+        {   
+          case 0:
           case 1: putchar(c+4);
           case 2: putchar(c+4);break;
           case 3: putchar(c+3);
-          case 4: putchar(c+2);break; }  }
-  printf("\n"); 
-    system("PAUSE");
-    return EXIT_SUCCESS;
+          case 4: putchar(c+2);break; 
+        }  
+    }
+    printf("\n"); 
 }
 ``` 
 
@@ -72,9 +71,8 @@ using namespace std;
 
 int main(int argc, char *argv[])
 {
-    int x=2;   PRINT1(FUDGE(5)*x);
-    system("PAUSE");
-    return EXIT_SUCCESS;
+    int x=2;   
+    PRINT1(FUDGE(5)*x);
 }
 ``` 
 
@@ -99,9 +97,6 @@ int main(int argc, char *argv[])
     int a=10,b=20;
     swap(&a,&b);
     printf("%d  %d\n",a,b);
-
-    system("PAUSE");
-    return EXIT_SUCCESS;
 }
 ``` 
 
@@ -121,8 +116,6 @@ int main(int argc, char *argv[])
     a.ch[0]=13;
     a.ch[1]=1;
     printf("%d\n",a.i);
-    system("PAUSE");
-    return EXIT_SUCCESS;
 }
 ``` 
 
@@ -143,8 +136,5 @@ int main(int argc, char *argv[])
         printf("%d,%d\n",i,j);
     }
     printf("%d,%d\n",i,j);
-
-    system("PAUSE");
-    return EXIT_SUCCESS;
 }
 ``` 
