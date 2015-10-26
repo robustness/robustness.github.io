@@ -9,7 +9,7 @@ tags:
 
 ## Example 1
 
-{% highlight bash %}
+{% highlight c %}
 #include <cstdlib>
 #include <iostream>
 
@@ -31,7 +31,7 @@ int main(int argc, char *argv[])
     printf("%d\n",p);
 }
 
-{% endhighlight bash %}
+{% endhighlight c %}
 
 ## Example 2
 ``` 
