@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Programming Homework 4
