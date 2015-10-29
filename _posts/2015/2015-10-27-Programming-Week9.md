@@ -6,6 +6,7 @@ categories:
 tags:
 - Software
 ---
+## Joseph Circle
 {% highlight c %}
 #include <stdio.h>
 int circle(int people, int num)
@@ -24,6 +25,26 @@ int main()
 }
 {% endhighlight %}
 
+## Love Game
+{% highlight c %}
+#include <stdio.h>
+#include <math.h>
+float p_conflict(float p, int n){
+  return 1 - pow(1-p,n) - n*p*pow(1-p,n-1);
+}
+int main()
+{
+  float p = 0.07;
+  printf("p is %f\n", p);
+
+  for (int n = 1; n<= 100; n++){
+    printf("number %d p %f\n",n, p_conflict(p,n));
+  }
+  return 0;
+}
+{% endhighlight %}
+
+## Unsigned Int
 {% highlight cpp %}
 #include "stdio.h"
 void fun()     //不懂
