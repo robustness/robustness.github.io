@@ -1,3 +1,11 @@
+---
+layout: post
+title: Upgrade Ubuntu 22.04 to 24.04 in Ubuntu Server
+categories:
+- Tech
+tags:
+- Software
+---
 Since you’re on **Ubuntu 22.04 LTS (Jammy Jellyfish)**, the next **LTS** release is **Ubuntu 24.04 LTS (Noble Numbat)**.
 Upgrading between LTS versions is officially supported and relatively straightforward, but it’s important to follow the right steps.
 
